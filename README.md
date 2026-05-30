@@ -3,7 +3,7 @@
 
 > Structural and functional analysis of the human protein–protein interaction (PPI) network from STRING v12.0, combining classical graph theory metrics, community detection (Louvain), node embeddings (Node2Vec) and supervised link prediction (Logistic Regression / Random Forest).
 
-Academic project for the courses **Grafos e Redes Complexas (GRC)** and **Introdução às Redes Neuronais (IRN)** — ISCTE Sintra · 2025/2026.
+Academic project for the courses **Grafos e Redes Complexas (GRC)** and **Introdução às Redes Neuronais (IRN)** 
 
 ---
 

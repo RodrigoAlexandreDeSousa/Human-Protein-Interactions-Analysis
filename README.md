@@ -17,7 +17,7 @@ Academic project for the courses **Grafos e Redes Complexas (GRC)** and **Introd
 - [How to Run](#how-to-run)
 - [Future Work](#future-work)
 - [References](#references)
-- [Authors](#authors)
+- [Author](#author)
 
 ---
 
@@ -178,16 +178,8 @@ A GPU is recommended for the full training loop.
 
 ---
 
-## Authors
-
-| | |
-| --- | --- |
-| Rodrigo Sousa  | 123390 |
-| Gustavo Calçada | 123421 |
-| Pedro Luís      | 123406 |
-
-**Supervisor:** Professor José Barros — ISCTE Sintra, 2025/2026.
-
+## Author
+| Rodrigo Sousa  
 ---
 
 *If you find this work useful, please cite it as: Sousa R., Calçada G., Luís P. (2026). Human PPI Network Analysis with Graph Theory & Machine Learning. ISCTE Sintra.*
